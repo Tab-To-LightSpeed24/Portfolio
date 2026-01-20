@@ -64,8 +64,8 @@ const AboutSection = () => {
             <div className="flex justify-between items-center mt-2 text-sm text-muted-foreground/80">
               <span>CGPA: 7.7</span>
               <span>Expected May 2026</span>
-            </div>
-          </motion.div>
+            </div >
+          </motion.div >
           <motion.div variants={itemVariants} className="border-l-2 border-primary/20 pl-6 py-1">
             <h3 className="text-xl font-medium text-foreground">Chennai Public School</h3>
             <p className="text-lg text-muted-foreground mt-1">Grade 12</p>
@@ -82,8 +82,8 @@ const AboutSection = () => {
               <span>June 2020</span>
             </div>
           </motion.div>
-        </div>
-      </motion.section>
+        </div >
+      </motion.section >
 
       <Separator className="my-12 max-w-4xl mx-auto opacity-20" />
 
@@ -108,7 +108,7 @@ const AboutSection = () => {
           </motion.div>
         </div>
       </motion.section>
-    </div>
+    </div >
   );
 };
 
