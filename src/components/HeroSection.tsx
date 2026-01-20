@@ -92,14 +92,7 @@ function HeroSection() {
                                 <a href="mailto:kaushik.vgs@gmail.com">Contact Me</a>
                             </Button>
                         </div>
-                        <div className="flex gap-4 justify-center mt-2">
-                            <Button asChild variant="outline" size="sm" className="rounded-full bg-transparent text-white border-white/20 hover:bg-white/10">
-                                <a href="/resume-ai.pdf" target="_blank" rel="noopener noreferrer">Download AI Resume</a>
-                            </Button>
-                            <Button asChild variant="outline" size="sm" className="rounded-full bg-transparent text-white border-white/20 hover:bg-white/10">
-                                <a href="/resume-fullstack.pdf" target="_blank" rel="noopener noreferrer">Download Full-Stack Resume</a>
-                            </Button>
-                        </div>
+
                     </div>
                 </motion.div>
             </div>
