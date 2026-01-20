@@ -38,11 +38,7 @@ function HeroSection() {
                         variant="secondary"
                         className="px-4 py-2 text-sm md:text-base font-medium rounded-full bg-white/10 text-white/70 border border-white/20 backdrop-blur-sm"
                     >
-<<<<<<< HEAD
                         Chennai · AI Systems & Full-Stack Engineer
-=======
-                        Chennai · Full-Stack & Applied ML Engineer
->>>>>>> 80fc03840520d7913ab83f3f8b8b19f49d304a76
                     </Badge>
                 </motion.div>
 
@@ -62,11 +58,7 @@ function HeroSection() {
                                 "text-2xl sm:text-4xl md:text-5xl block mt-2 bg-clip-text text-transparent bg-gradient-to-r from-indigo-300 via-white/90 to-rose-300 "
                             )}
                         >
-<<<<<<< HEAD
                             AI Systems & Full-Stack Engineer
-=======
-                            Full-Stack & Applied ML Engineer
->>>>>>> 80fc03840520d7913ab83f3f8b8b19f49d304a76
                         </span>
                     </h1>
                 </motion.div>
@@ -79,11 +71,7 @@ function HeroSection() {
                     className="mb-8"
                 >
                     <p className="text-xl md:text-2xl text-white/80 font-light mb-4">
-<<<<<<< HEAD
                         I build durable agentic workflows, high-performance backend systems, and real-time AI pipelines using Python, React 19, and modern Orchestration stacks.
-=======
-                        I build scalable backend systems, data-driven web apps, and real-time AI pipelines using Python, TypeScript, and modern ML/LLM stacks.
->>>>>>> 80fc03840520d7913ab83f3f8b8b19f49d304a76
                     </p>
 
                 </motion.div>
@@ -95,7 +83,6 @@ function HeroSection() {
                     animate="visible"
                     className="flex flex-col sm:flex-row justify-center gap-4 mt-8"
                 >
-<<<<<<< HEAD
                     <div className="flex flex-col gap-4">
                         <div className="flex gap-4 justify-center">
                             <Button asChild size="lg" className="px-8 py-6 text-lg rounded-full">
@@ -114,14 +101,6 @@ function HeroSection() {
                             </Button>
                         </div>
                     </div>
-=======
-                    <Button asChild size="lg" className="px-8 py-6 text-lg rounded-full">
-                        <Link to="/projects">View Projects</Link>
-                    </Button>
-                    <Button asChild variant="secondary" size="lg" className="px-8 py-6 text-lg rounded-full">
-                        <a href="mailto:kaushik.vgs@gmail.com">Contact Me</a>
-                    </Button>
->>>>>>> 80fc03840520d7913ab83f3f8b8b19f49d304a76
                 </motion.div>
             </div>
         </HeroGeometric>
